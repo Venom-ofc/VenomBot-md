@@ -81,18 +81,46 @@ caso duvidas entre em contato! ( Clique Em Cima )
 <p align="center">
   <h4 align="center">       
 ═[🎈Meu grupo do Whatsapp tudo sobre bot🎈]═(https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
-    
-═[🎈Meu Whatsapp🎈]═M(https://wa.me/556284944742)
 
+<div align="center">
+</div>
+<p align="center">
+  <h4 align="center">           
+═[🎈Meu Whatsapp🎈]═M(https://wa.me/559784388524)
+
+<div align="center">
+</div>
+<p align="center">
+  <h4 align="center">       
 ═[🎈área de download🎈]═
-    
+
+<div align="center">
+</div>
+<p align="center">
+  <h4 align="center">           
 ═[🎈Baixar Comandos Para a Instaçao Do Bot ( Clique )🎈]═(https://www.mediafire.com/file/fn2p9ipc15cj0fi/Comandos_InfinityBot.txt/file)
 
+<div align="center">
+</div>
+<p align="center">
+  <h4 align="center">       
 ═[🎈baixa script do bot ( Clique )🎈]═
-    
+
+<div align="center">
+</div>
+<p align="center">
+  <h4 align="center">           
 ═[🎈Baixar Termux 118 ( Clique )🎈]═(https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-118-0-release/termux-fdroid-version-0-118-0-android-apk-download/download/)
-    
+
+<div align="center">
+</div>
+<p align="center">
+  <h4 align="center">           
 ═[🎈Baixar Termux 117 ( Clique )🎈]═(https://www.mediafire.com/file/plyu1fbkc9hpss4/Termux_117.apk/file)
-    
+
+<div align="center">
+</div>
+<p align="center">
+  <h4 align="center">           
 ═[🎈Baixar Acode Pro ( Clique )🎈]═(https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file)
 
