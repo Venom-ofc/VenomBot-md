@@ -37,6 +37,7 @@ em breve a primera versão v1 com varios novos comandos :)
 <p align="center">
   <h4 align="center">   
 ═[🎈duvidas🎈]═
+
 ```bash     
 caso duvidas entre em contato! ( Clique Em Cima )
     
