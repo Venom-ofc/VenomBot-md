@@ -74,19 +74,21 @@ em breve a primera versão v1 com varios novos comandos :)
 ═[🎈duvidas🎈]═
 
 ```bash     
-caso duvidas entre em contato! ( Clique Em Cima )
+caso duvidas entre em contato! Clique Em Cima
 ```
 <div align="center">
 </div>
 <p align="center">
   <h4 align="center">       
-═[🎈Meu grupo do Whatsapp tudo sobre bot🎈]═(https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
+═[🎈Meu grupo do Whatsapp tudo sobre bot🎈]═
+https://chat.whatsapp.com/LtjFqe7AEKtKMLeyyHWqrY
 
 <div align="center">
 </div>
 <p align="center">
   <h4 align="center">           
-═[🎈Meu Whatsapp🎈]═M(https://wa.me/559784388524)
+═[🎈Meu Whatsapp🎈]═M 
+https://wa.me/559784388524
 
 <div align="center">
 </div>
@@ -98,29 +100,33 @@ caso duvidas entre em contato! ( Clique Em Cima )
 </div>
 <p align="center">
   <h4 align="center">           
-═[🎈Baixar Comandos Para a Instaçao Do Bot ( Clique )🎈]═(https://www.mediafire.com/file/fn2p9ipc15cj0fi/Comandos_InfinityBot.txt/file)
+═[🎈Baixar Comandos Para a Instaçao Do Bot ( Clique )🎈]═
+https://www.mediafire.com/download/fivjeqpambcn8ab
 
 <div align="center">
 </div>
 <p align="center">
   <h4 align="center">       
 ═[🎈baixa script do bot ( Clique )🎈]═
+https://mega.nz/file/i3423RCb#FcFVkRyuicK38ircjfmQIO_mmAbzzkmoBiVBl1mHyq8
 
 <div align="center">
 </div>
 <p align="center">
   <h4 align="center">           
-═[🎈Baixar Termux 118 ( Clique )🎈]═(https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-118-0-release/termux-fdroid-version-0-118-0-android-apk-download/download/)
+═[🎈Baixar Termux 118 ( Clique )🎈]═
+https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-118-0-release/termux-fdroid-version-0-118-0-android-apk-download/download/
 
 <div align="center">
 </div>
 <p align="center">
   <h4 align="center">           
-═[🎈Baixar Termux 117 ( Clique )🎈]═(https://www.mediafire.com/file/plyu1fbkc9hpss4/Termux_117.apk/file)
+═[🎈Baixar Termux 117 ( Clique )🎈]═
+https://www.mediafire.com/file/plyu1fbkc9hpss4/Termux_117.apk/file
 
 <div align="center">
 </div>
 <p align="center">
   <h4 align="center">           
-═[🎈Baixar Acode Pro ( Clique )🎈]═(https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file)
-
+═[🎈Baixar Acode Pro ( Clique )🎈]═
+https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file
