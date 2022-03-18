@@ -14,21 +14,21 @@ Um bot multi device simples para whatsapp que está em desenvolvimento em beta.
 ```bash
  ═[🎈𝒄𝒐𝒎𝒂𝒏𝒅𝒐𝒔 𝒔𝒊𝒎𝒑𝒍𝒆𝒔🎈]═
 ╭━━━━━━━━━━━
-┃${prefix}lava
-┃${prefix}3dstone
-┃${prefix}adicionar
-┃${prefix}kick
-┃${prefix}promote
-┃${prefix}demote
-┃${prefix}dono
-┃${prefix}attp
-┃${prefix}sticker
-┃${prefix}setname
-┃${prefix}setprofile
-┃${prefix}block
-┃${prefix}unblok
-┃${prefix}sair
-┃${prefix}entrar
+┃.lava
+┃.3dstone
+┃.adicionar
+┃.kick
+┃.promote
+┃.demote
+┃.dono
+┃.attp
+┃.sticker
+┃.setname
+┃.setprofile
+┃.block
+┃.unblok
+┃.sair
+┃.entrar
 ╰━━━━━━━━━━━
 em breve a primera versão v1 com varios novos comandos :)
 ```
