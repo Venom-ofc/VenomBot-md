@@ -36,6 +36,7 @@
     </a>
 </p>
 Um bot multi device simples para whatsapp que está em desenvolvimento em beta.
+
 ```bash
  ═[🎈𝒄𝒐𝒎𝒂𝒏𝒅𝒐𝒔 𝒔𝒊𝒎𝒑𝒍𝒆𝒔🎈]═
 ╭━━━━━━━━━━━
@@ -57,6 +58,7 @@ Um bot multi device simples para whatsapp que está em desenvolvimento em beta.
 ╰━━━━━━━━━━━
 em breve a primera versão v1 com varios novos comandos :)
 ```
+
 <div align="center">
 </div>
 <p align="center">
