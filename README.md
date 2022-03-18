@@ -16,8 +16,6 @@
     </a>
 </p>
 
-
-# </VenomBot-Multi Device/>
 <div align="center">
 </div>
 <p align="center">
@@ -28,7 +26,15 @@
 <p align="center">
    <a href="https://github.com/Venom-ofc/VenomBot-md"><img title="VenomBot-md" src="https://img.shields.io/badge/Feito por Venom Mods-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-
+  
+<p align="center">
+    <a href="https://github.com/Venom-ofc">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=⚡+Ajuda+sobre+o+bot+⚡"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 Um bot multi device simples para whatsapp que está em desenvolvimento em beta.
 ```bash
  ═[🎈𝒄𝒐𝒎𝒂𝒏𝒅𝒐𝒔 𝒔𝒊𝒎𝒑𝒍𝒆𝒔🎈]═
@@ -55,6 +61,14 @@ em breve a primera versão v1 com varios novos comandos :)
 </div>
 <p align="center">
   <h4 align="center">   
+<p align="center">
+    <a href="https://github.com/Venom-ofc">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=⚡+Duvidas+e+Instalação+⚡"
+            alt="Typing SVG"
+        />
+    </a>
+</p>  
 ═[🎈duvidas🎈]═
 
 ```bash     
