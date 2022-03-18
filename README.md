@@ -32,7 +32,10 @@ Um bot multi device simples para whatsapp que está em desenvolvimento em beta.
 ╰━━━━━━━━━━━
 em breve a primera versão v1 com varios novos comandos :)
 ```
-   
+<div align="center">
+</div>
+<p align="center">
+  <h4 align="center">   
 ═[🎈duvidas🎈]═
     
 caso duvidas entre em contato! ( Clique Em Cima )
