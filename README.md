@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=Venom+-+Bot+-+Multi device"
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=Venom+-+Bot+-+Multi+-+device"
             alt="Typing SVG"
         />
     </a>
@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🎃+Feiyo+por+Venom+🎃"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=⚡+Feito+por+Venom+⚡"
             alt="Typing SVG"
         />
     </a>
