@@ -1,3 +1,22 @@
+<p align="center">
+    <a href="https://github.com/Venom-ofc">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=Venom+-+Bot+-+Multi device"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/Venom-ofc">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🎃+Feiyo+por+Venom+🎃"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+
 # </VenomBot-Multi Device/>
 <div align="center">
 </div>
