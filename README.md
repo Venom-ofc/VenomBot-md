@@ -37,7 +37,7 @@ em breve a primera versão v1 com varios novos comandos :)
 <p align="center">
   <h4 align="center">   
 ═[🎈duvidas🎈]═
-    
+```bash     
 caso duvidas entre em contato! ( Clique Em Cima )
     
 ═[🎈Meu grupo do Whatsapp tudo sobre bot🎈]═(https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
@@ -55,4 +55,4 @@ caso duvidas entre em contato! ( Clique Em Cima )
 ═[🎈Baixar Termux 117 ( Clique )🎈]═(https://www.mediafire.com/file/plyu1fbkc9hpss4/Termux_117.apk/file)
     
 ═[🎈Baixar Acode Pro ( Clique )🎈]═(https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file)
-
+````
